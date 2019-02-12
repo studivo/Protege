@@ -1,7 +1,10 @@
-# unity3d-blockchain-wallet
+# [Protégé] Decentralized Open Social (DOS)
 
-Create wallets and perform transactions on custom ERC20 tokens via Unity3D
+## Mission:
+## To build a social platform for an open, decentralized, sharing economy aimed at revitalizing education ecosystem
 
-## Getting Started
+## To Do
+1. Create wallets and perform transactions on custom ERC20 tokens via Unity3D
 
-https://medium.com/@polats/lets-build-a-decentralized-game-economy-using-blockchains-cf0a80e43da1
+## Reference
+1. https://medium.com/@polats/lets-build-a-decentralized-game-economy-using-blockchains-cf0a80e43da1
